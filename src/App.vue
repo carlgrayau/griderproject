@@ -1,6 +1,6 @@
 <template>
 <div>
- <SearchBar @termChange="onTermChange" ref="my-child" ></SearchBar>  
+ <SearchBar @termChange="onTermChange"></SearchBar>  
 </div>
 </template>
 
